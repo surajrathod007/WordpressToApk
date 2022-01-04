@@ -31,6 +31,7 @@ class homeFragment : Fragment() {
 
 
     //creating data for list
+    //just simple commit
     val postInfoList = arrayListOf<Post>()
 
 
